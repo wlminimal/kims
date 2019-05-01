@@ -1,1 +1,1 @@
-web: gunicorn kims.wsgi --log-file
+web: gunicorn kims.wsgi --log-file -
