@@ -1,0 +1,1 @@
+web: gunicorn kims.wsgi --log-file
